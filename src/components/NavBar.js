@@ -5,7 +5,7 @@ function NavBar() {
   return (
     <nav className="nav-wrapper teal lighten-2">
     <div className="container">
-    <a className="brand-logo" href="#">PokeTimes</a>
+    <h4 className="brand-logo">PokeTimes</h4>
     <ul className="right">
     <li><Link to="/">Home</Link></li>
     <li><Link to="/about">About</Link></li>
